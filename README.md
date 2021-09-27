@@ -1,1 +1,1 @@
-# gradle-test-project
+# gradle-test-pipeline
