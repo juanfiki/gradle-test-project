@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gradle.test.pipeline.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-27T16:35:47" hostname="ADL27337.local" time="0.003">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="gradle.test.pipeline.AppTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
