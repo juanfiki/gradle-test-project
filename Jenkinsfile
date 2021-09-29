@@ -10,7 +10,7 @@ node {
     } 
     stage('Sonar'){
     
-    sh "./gradlew sonarqube"
+        sh "./gradlew sonarqube"
                 
     }
 }
