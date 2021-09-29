@@ -4,9 +4,9 @@ node {
         checkout scm       
     }
     stage('Sonar'){
-        withSonarQubeEnv ( 'SonarQube' ) { 
-                    sh "./gradlew sonarqube"
-                }
+    
+    sh "./gradlew sonarqube"
+                
     }
      
     stage('Build') {
