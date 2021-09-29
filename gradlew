@@ -182,5 +182,3 @@ eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$A
 
 exec "$JAVACMD" "$@"
 
-# gradle.properties
-systemProp.sonar.host.url=http://localhost:9000
